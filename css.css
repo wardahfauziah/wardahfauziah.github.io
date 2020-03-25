@@ -1,5 +1,5 @@
-body	{background-image: url(kotakijo.jpg); }
-p	{color:green;font-size: 170%; text-align: center;}
+body	{background-color: olive }
+p	{outline-style: dashed;outline-color: skyblue;color:white;font-size: 170%; text-align: center;}
 blockquote { text-align: center;}
 p {text-align: center;}
 h2	{font-size: 200%; text-align: center; }
